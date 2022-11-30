@@ -1,0 +1,6 @@
+module Pods_AVID_App_AVID_AppTests {
+  umbrella header "Pods-AVID_App-AVID_AppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
